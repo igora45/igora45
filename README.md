@@ -1,5 +1,5 @@
 ### Olá, eu sou o Igor Carvalho. 👋
-<p>Atualmente estou estudando Node e React, e faço aulas de inglês no Cambly com uma professora americana nativa. Estou em busca de crescer na carreira como programador e estou em busca de uma oportunidade de Estágio/Junior para eu colocar minhas habilidades em pratica e aperfeiçoar-las.</p>
+<p>Atualmente estou estudando Node e React, e faço aulas de inglês no Cambly com uma professora americana nativa. Estou em busca de crescer na carreira como programador e estou em busca de uma oportunidade de Estágio/Junior para eu colocar minhas habilidades em prática e aperfeiçoar-las.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="igor-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">

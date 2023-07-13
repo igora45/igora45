@@ -2,7 +2,7 @@
 <p>Atualmente estou estudando Node e React, e faço aulas de inglês no Cambly com uma professora americana nativa. Estou em busca de crescer na carreira como programador e estou em busca de uma oportunidade de Estágio/Junior para eu colocar minhas habilidades em prática e aperfeiçoar-las.</p>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="igor-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="igor-java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="igor-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="igor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="igor-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
@@ -11,7 +11,7 @@
   <img align="center" alt="igor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
-<h4>Node / React / JavaScript / TypeScript / MySQL / HTML / CSS</h4>
+<h4>Java / React / JavaScript / TypeScript / MySQL / HTML / CSS</h4>
 
 ##
 <h2>Onde me Encontrar:</h2>

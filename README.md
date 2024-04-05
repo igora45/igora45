@@ -11,7 +11,7 @@
   <img align="center" alt="igor-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
-<h4>Java / MySQL / React / JavaScript / HTML / CSS</h4>
+<h4>Java / MySQL / MongoDB / React / JavaScript / HTML / CSS</h4>
 
 ##
 <h2>Onde me Encontrar:</h2>
